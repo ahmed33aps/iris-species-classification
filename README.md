@@ -2,7 +2,9 @@
 
 A logistic-regression exercise classifying iris species from flower measurements.
 
-## Contents
+## Project files and local data inputs
+
+Data files listed below are local inputs, not bundled public downloads. See `PUBLIC_DATA_SETUP.md`.
 
 - `iris_Project.ipynb`
 - `Iris.csv`
